@@ -1,5 +1,5 @@
 - Hi, I’m LI-WEI YANG, from Taiwan.
-- I studies in Department of Biomechatronics Engineering, National Twaiwan University.
+- I study in Department of Biomechatronics Engineering, National Twaiwan University.
 - How to reach me: liver121888@gmail.com
 
 <!---
