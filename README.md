@@ -1,5 +1,6 @@
 - Hi, I’m LI-WEI YANG, from Taiwan.
-- I study in Department of Biomechatronics Engineering, National Twaiwan University.
+- I am an expected bachelor in Biomechatronics Engineering at National Taiwan University.
+- I am interested in robotics, mostly surgical robots.
 - How to reach me: liver121888@gmail.com
 
 <!---
