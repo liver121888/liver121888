@@ -4,10 +4,10 @@
 - How to reach me: liver121888@gmail.com
 - Portfolio: https://liver121888-github-io.vercel.app
 
-![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver121888&layout=compact)
+![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver121888&layout=compact&theme=synthwave)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liver121888&repo=RMML_GPAnGA_Morph)](https://github.com/liver121888/RMML_GPAnGA_Morph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liver121888&theme=synthwave&repo=RMML_GPAnGA_Morph)](https://github.com/liver121888/RMML_GPAnGA_Morph)
 
 
 <!---
