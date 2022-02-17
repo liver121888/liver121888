@@ -6,7 +6,10 @@
 
 ![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver121888&layout=compact&theme=synthwave&hide=jupyter%20notebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liver121888&theme=synthwave&repo=RMML_GPAnGA_Morph)](https://github.com/liver121888/RMML_GPAnGA_Morph)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liver121888&theme=synthwave&repo=NTUBME-2021-DIP-Assignments)](https://github.com/liver121888/NTUBME-2021-DIP-Assignments)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liver121888&theme=synthwave&repo=NTUCSIE-2021-Robotics-Assignments)](https://github.com/liver121888/NTUCSIE-2021-Robotics-Assignments)
 
 
 <!---
