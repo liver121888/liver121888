@@ -5,7 +5,7 @@
 - Portfolio: https://liver121888-github-io.vercel.app
 
 ![Liver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liver&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liver&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liver&layout=compact)
 
 
 <!---
