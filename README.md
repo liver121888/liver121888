@@ -7,7 +7,7 @@
 ![Liver's github stats](https://github-readme-stats.vercel.app/api?username=Liver&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liver&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Liver&repo=.vim)](https://github.com/liver121888/.vim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Liver&repo=RMML_GPAnGA_Morph)](https://github.com/liver121888/RMML_GPAnGA_Morph)
 
 
 
