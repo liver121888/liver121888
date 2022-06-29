@@ -4,7 +4,7 @@
 - I am an expected bachelor in Biomechatronics Engineering at National Taiwan University.
 - I am interested in robotics, mostly surgical robots.
 - How to reach me: liver121888@gmail.com
-- Portfolio: https://liver121888-github-io
+- Portfolio: https://liver121888.github.io
 
 [![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true&theme=synthwave)](https://github.com/liver121888/liver121888)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver121888&layout=compact&theme=synthwave&hide=jupyter%20notebook)](https://github.com/liver121888/liver121888) -->
