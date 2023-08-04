@@ -6,7 +6,7 @@
 - How to reach me: liver121888@gmail.com
 - Portfolio: https://liver121888.gitlab.io
 
-[![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true&theme=synthwave)](https://github.com/liver121888/liver121888)
+<!-- [![Liver's github stats](https://github-readme-stats.vercel.app/api?username=liver121888&count_private=true&theme=synthwave)](https://github.com/liver121888/liver121888) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liver121888&layout=compact&theme=synthwave&hide=jupyter%20notebook)](https://github.com/liver121888/liver121888) -->
 [![Liver's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@liver121888&theme=synthwave&layout=compact)](https://github.com/liver121888/liver121888)
 
