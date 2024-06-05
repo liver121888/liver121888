@@ -1,8 +1,9 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/efb38313-4c78-4cb3-8d2c-cc4c76cfb2a6.svg?style=plastic)](https://wakatime.com/@efb38313-4c78-4cb3-8d2c-cc4c76cfb2a6) -->
 
-- Hi, I’m LI-WEI YANG, from Taiwan.
-- I received my bachelor degree in Biomechatronics Engineering at National Taiwan University, 2022.
-- I am interested in robotics, autonomous vehicles, simulations, AI. 
+- Hi, I’m LI-WEI YANG, from Taiwan .
+- I received my Bachelor's degree in Biomechatronics Engineering at National Taiwan University in 2022.
+- I am pursuing a Master's degree in Robotic Systems Development at Carnegie Mellon University.
+- I am interested in medical robotics, simulations, and RL. 
 - How to reach me: liver121888@gmail.com
 - Portfolio: https://liver121888.gitlab.io
 
